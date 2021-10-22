@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TRIDIB BAG</h1>
-<h3 align="center">A Full Stack Developer enthusiastic from India, currently pursuing B.Tech(CSE) 3rd Year</h3>
+<h3 align="center">A Full Stack Developement enthusiastic from India, currently pursuing B.Tech(CSE) 3rd Year</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjoy832&label=Profile%20views&color=0e75b6&style=flat" alt="mrjoy832" /> </p>
 
