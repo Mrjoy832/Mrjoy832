@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjoy832" alt="mrjoy832" /></a> </p>
 
+- 🔶 **GSSoC'22 Contributor**(Mar,2022-Present)
 - 🔭 I’m currently working on **Problem Solving**
 
 - 🌱 I’m currently learning **DS-Algo, Web Development**
