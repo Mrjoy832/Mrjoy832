@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjoy832" alt="mrjoy832" /></a> </p>
 
 - 🔶 **GSSoC'22 Top Contributor & Project Mentor**(Mar,2022-June,2022)
-- 📘 (Scaler)[https://discord.gg/scaler-by-interviewbit-780066247601291285] **Community Moderator** (July,2022-Jan,2023)
+- 📘 [Scaler](https://discord.gg/scaler-by-interviewbit-780066247601291285) **Community Moderator** (July,2022-Jan,2023)
 - 🔭 I’m currently working on **Problem Solving**
 
 - 🌱 I’m currently learning **DS-Algo, Web Development**
