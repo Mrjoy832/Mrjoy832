@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TRIDIB BAG</h1>
-<img src="https://images.unsplash.com/photo-1515041219749-89347f83291a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"  height="350" width="800"/>
+<img src="https://images.unsplash.com/photo-1515041219749-89347f83291a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"  height="220" width="520"/>
 <h3 align="center">A Full Stack Developement enthusiastic from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjoy832&label=Profile%20views&color=0e75b6&style=flat" alt="mrjoy832" /> </p>
