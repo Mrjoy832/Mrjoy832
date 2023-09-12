@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm TRIDIB BAG</h1>
-<h3 align="center">A Full Stack Developement enthusiastic from India, currently pursuing B.Tech(CSE) 3rd Year</h3>
+<h3 align="center">A Full Stack Developement enthusiastic from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjoy832&label=Profile%20views&color=0e75b6&style=flat" alt="mrjoy832" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjoy832" alt="mrjoy832" /></a> </p>
 
-- 🔶 **GSSoC'22 Contributor**(Mar,2022-Present)
+- 🔶 **GSSoC'22 Top Contributor & Project Mentor **(Mar,2022-June,2022)
 - 🔭 I’m currently working on **Problem Solving**
 
 - 🌱 I’m currently learning **DS-Algo, Web Development**
 
-- 🤝 I’m looking for **Internship**
+- 🤝 I’m looking for **FTE**
 
 - 📫 How to reach me **tridibbag56@gmail.com**
 
